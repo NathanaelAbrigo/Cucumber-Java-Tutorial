@@ -19,3 +19,5 @@ mvn archetype:generate ^
 
 ```
 2. You can comment or delete the example.feature file while doing the tutorial since that file is also included in the 'mvn test' runs, which may cause confusions while following
+3. When using VSC, you can install the extention 'Cucumber (Gherkin) Full Support' to aid you in writing the codes for Cucumber
+![image](https://github.com/NathanaelAbrigo/Cucumber-Tutorial/assets/96292589/f23f4761-a03d-4fe7-9db8-d7d99ca44824)
