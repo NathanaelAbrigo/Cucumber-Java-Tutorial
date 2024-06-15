@@ -1,4 +1,4 @@
-# Cucumber-Tutorial
+# Cucumber-Java Tutorial
 This is a quick hands on project tutorial about using Cucumber as a test tool in a Java environment when utilizing Behaviour Driven Development.
 
 ### Source
