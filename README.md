@@ -4,6 +4,10 @@ This is a quick hands on project tutorial about using Cucumber as a test tool in
 ### Source
 https://cucumber.io/docs/guides/10-minute-tutorial/?lang=java
 
+### Requirements
+Here is a Youtube video guide on setting up the JDK and Maven in a Windows 10 environment.
+https://www.youtube.com/watch?v=WASIyomqarc
+
 ### Notes
 1. For creating a new project directory, the given snippet in the tutorial is for Unix-like Systems (Linux, macOS). For Windows, use the code snippet provided here
 ```
